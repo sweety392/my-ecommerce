@@ -1,0 +1,1 @@
+WEBSITE_REGISTER = "/auth/register"
